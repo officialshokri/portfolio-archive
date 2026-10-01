@@ -1,8 +1,8 @@
 # Website Project Archive
 
-A structured archive of **19 client website projects** by **Alireza Shokri**.
+A structured archive of **20 client website projects** by **Alireza Shokri**.
 
-> Production source code is intentionally not published. These repositories are portfolio case studies only because the underlying client codebases are client-owned.
+> Production source code is intentionally not published. These repositories and case-study pages document portfolio work without redistributing client-owned codebases.
 
 ## Projects
 
@@ -27,12 +27,13 @@ A structured archive of **19 client website projects** by **Alireza Shokri**.
 | 17 | [Baharland](https://github.com/officialshokri/baharland) | E-Commerce Website |
 | 18 | [Abu Jamal Ahvazi](https://github.com/officialshokri/abu-jamal-ahvazi) | Food Ordering Website |
 | 19 | [Sogand Shoes](https://github.com/officialshokri/sogand-shoes) | Shoe E-Commerce Website |
+| 20 | [Madiya Store](./madiya-store.md) | Luxury E-Commerce Website |
 
 ## Repository Standard
 
-Each project repository contains:
+Each portfolio entry contains:
 
-- an archived visual preview;
+- an archived visual preview or documented project reference;
 - a concise project overview;
 - my contribution;
 - technologies or implementation focus;
@@ -40,6 +41,6 @@ Each project repository contains:
 
 ## Portfolio Policy
 
-Client websites can change after project delivery. Archived screenshots are used as the primary visual record of the work represented here.
+Client websites can change after project delivery. Archived screenshots and case-study records are used as the primary portfolio record of the work represented here.
 
 Client names, trademarks, logos, product photography, and other third-party assets remain the property of their respective owners.
